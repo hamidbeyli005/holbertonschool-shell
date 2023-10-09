@@ -1,0 +1,2 @@
+#!/bin/bash
+if groups then guillaume chown vincent _hello
