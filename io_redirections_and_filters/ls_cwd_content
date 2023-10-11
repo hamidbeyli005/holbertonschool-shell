@@ -1,0 +1,24 @@
+total 84
+drwxr-xr-x 2 root root 4096 Oct 10 22:18 .
+drwxr-xr-x 6 root root   86 Oct  9 22:52 ..
+-rwxr--r-- 1 root root   32 Oct  9 22:55 0-hello_world
+-rwxr--r-- 1 root root   31 Oct  9 22:53 0-hello_world~
+-rwxr--r-- 1 root root   28 Oct  9 23:00 1-confused_smiley
+-rwxr--r-- 1 root root   27 Oct  9 22:59 1-confused_smiley~
+-rwxr--r-- 1 root root   36 Oct  9 23:03 2-hellofile
+-rwxr--r-- 1 root root   35 Oct  9 23:02 2-hellofile~
+-rwxr--r-- 1 root root   46 Oct  9 23:07 3-twofiles
+-rwxr--r-- 1 root root   47 Oct  9 23:05 3-twofiles~
+-rwxr--r-- 1 root root   33 Oct  9 23:18 4-lastlines
+-rwxr--r-- 1 root root   35 Oct  9 23:17 4-lastlines~
+-rwxr--r-- 1 root root   33 Oct  9 23:19 5-firstlines
+-rwxr--r-- 1 root root   33 Oct  9 23:19 5-firstlines~
+-rwxr--r-- 1 root root   36 Oct  9 23:52 6-third_line
+-rwxr--r-- 1 root root   33 Oct  9 23:20 6-third_line~
+-rwxr--r-- 1 root root   79 Oct 10 02:37 7-file
+-rwxr--r-- 1 root root   99 Oct 10 02:21 7-file~
+-rwxr--r-- 1 root root   37 Oct 10 22:18 8-cwd_state
+-rwxr--r-- 1 root root   42 Oct 10 22:18 8-cwd_state~
+-rw-r--r-- 1 root root   12 Oct 10 02:33 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 Oct 10 22:18 ls_cwd_content
+-rw-r--r-- 1 root root   99 Oct  9 22:56 README.md
